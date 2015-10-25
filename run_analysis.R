@@ -1,4 +1,4 @@
-setwd("/Users/yy/FROM_OLD_MAC/CourseraClasses/GettingAndCleaningData/CourseProject")
+
 
 # Project Step 1 
 # This block reads the test and training data sets and combines them
